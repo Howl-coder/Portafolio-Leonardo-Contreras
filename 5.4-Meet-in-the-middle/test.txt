@@ -1,0 +1,50 @@
+test case 1:
+6
+
+45
+34 
+4 
+12 
+5 
+2 
+42
+
+Output: 
+La suma máxima del subconjunto es 41, el cual se obtiene de la suma de 34, 5 y 2.
+
+test case 2:
+6
+3 
+34 
+4 
+12 
+5 
+2   
+10
+
+Output: 
+La suma máxima del subconjunto es 10, el cual se obtiene de la suma de 2, 3 y 5.
+
+test case 3:
+6
+2
+3
+6
+7
+1
+5
+9
+Output: 9
+La suma maxima del subconjunto es 9, el cual se obtiene de la suma de 3 6 
+
+test case 4:
+6
+8
+2
+4
+5
+3
+1
+10
+Output: 10
+La suma maxima del subconjunto es 10, el cual se obtiene de la suma de 8 2 

@@ -1,0 +1,42 @@
+
+INPUT:
+3
+1 1 1
+1 0 1
+0 1 1
+
+OUTPUT:
+RRDD
+
+INPUT:
+5
+1 1 0 1 1 
+0 1 0 1 0
+1 1 1 1 0
+0 1 0 1 0
+1 0 1 1 1
+
+OUTPUT:
+RDDRRDDR
+
+INPUT:
+5 
+1 0 1 1 1
+1 0 1 0 1
+1 1 1 0 1
+0 0 0 0 1
+1 1 1 0 1
+
+OUTPUT:
+DDRRUURRDDDD
+
+INPUT:
+5 
+1 0 1 1 1
+1 1 1 0 1
+1 1 0 1 1 
+0 0 0 1 0
+1 1 1 1 1
+
+OUTPUT:
+DRRURRDDLDDR

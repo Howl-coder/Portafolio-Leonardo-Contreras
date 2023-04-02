@@ -1,0 +1,31 @@
+1.
+Input:
+83
+18, 21, 37, 67, 68, 79, 85, 91, 96
+
+Output:
+El elemento no esta presente en el arreglo
+
+2.
+Input:
+4
+1, 2, 3, 4, 5
+
+Output:
+El elemento esta presente en el indice: 3
+
+3.
+Input:
+10
+4, 7, 10, 14, 15, 18
+
+Output:
+El elemento esta presente en el indice: 2
+
+4.
+Input:
+8
+3, 7
+
+Output:
+El elemento no esta presente en el arreglo

@@ -1,0 +1,79 @@
+Para imprimir los datos TRIES, cuando se imprimen palabras que tiene las primeras
+letras en comun, primero se imprimen las palabras de la primera palabra que se
+ingreso y despues las palabras faltantes de las otras palabras.
+
+1.
+Input:
+5
+gato
+casa
+carro
+cama
+alberca
+4
+alberca
+carro
+estufa
+gato
+
+Output:
+g a t o c a s a r r o m a a l b e r c a
+1
+1
+0
+1
+
+2.
+Input:
+6
+mandarin
+cuba
+vaso
+concha
+tienda
+prestamo
+3
+cielo
+concha
+hoja
+
+Output:
+m a n d a r i n c u b a o n c h a v a s o t i e n d a p r e s t a m o
+0
+1
+0
+
+3.
+Input:
+1
+cielo
+3
+prestamo
+concha
+cielo
+
+Output:
+c i e l o
+0
+0
+1
+
+4.
+Input:
+4
+tele
+mano
+telefono
+television
+4
+telefono
+television
+mano
+tele
+
+Output:
+t e l e f o n o v i s i o n m a n o
+1
+1
+1
+1
